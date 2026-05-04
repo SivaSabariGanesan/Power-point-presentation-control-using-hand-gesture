@@ -1,0 +1,5 @@
+opencv-contrib-python
+numpy
+mediapipe==0.10.13
+pywin32
+cvzone

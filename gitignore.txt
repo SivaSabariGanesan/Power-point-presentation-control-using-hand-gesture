@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+.Python
+env/
+venv/
+venv*/
+*.egg-info/
+pip-wheel-metadata/
+.python-version
+
+# Virtual environments
+venv312/
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Windows file streams
+*.Zone.Identifier
